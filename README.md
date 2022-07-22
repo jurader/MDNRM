@@ -2,7 +2,7 @@
 Bayesian multi-dimensional nominal response model
 
 # Requirement
-The following softwares are used for the implementation of MD-NRM.
+The following softwares were used for the implementation of MD-NRM.
 
 * R, version 4.1.1
 * Stan, version 2.21.0
