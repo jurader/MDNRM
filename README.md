@@ -16,9 +16,10 @@ If the source code of this repository is used, please cite the following preprin
 
 Bayesian Multidimensional Nominal Response Model for Observer Study of Radiologists.
 Mizuho Nishio, Daigo Kobayashi, Hidetoshi Matsuo, Yasuyo Urase, Eiko Nishioka, Takamichi Murakami.
-medRxiv 2022.08.05.22278451; doi: https://doi.org/10.1101/2022.08.05.22278451
+medRxiv 2022.08.05.22278451; 
 
-https://www.medrxiv.org/content/10.1101/2022.08.05.22278451v1
+* DOI: https://doi.org/10.1101/2022.08.05.22278451
+* URL: https://www.medrxiv.org/content/10.1101/2022.08.05.22278451v1
 
 # License
 The source code of this repository is licensed under GPLv3. For the detail, please see License file of this repository.
