@@ -14,8 +14,8 @@ The following softwares were used for the implementation of MD-NRM.
 # Preprint paper
 If the source code of this repository is used, please cite the following preprint paper.
 
-Bayesian Multidimensional Nominal Response Model for Observer Study of Radiologists
-Mizuho Nishio, Daigo Kobayashi, Hidetoshi Matsuo, Yasuyo Urase, Eiko Nishioka, Takamichi Murakami
+Bayesian Multidimensional Nominal Response Model for Observer Study of Radiologists.
+Mizuho Nishio, Daigo Kobayashi, Hidetoshi Matsuo, Yasuyo Urase, Eiko Nishioka, Takamichi Murakami.
 medRxiv 2022.08.05.22278451; doi: https://doi.org/10.1101/2022.08.05.22278451
 
 https://www.medrxiv.org/content/10.1101/2022.08.05.22278451v1
