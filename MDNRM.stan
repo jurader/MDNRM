@@ -1,9 +1,9 @@
 data{
-  int<upper=3> K; //  number of clesses of responses
-  int<lower=1> n_doctor; //  number of doctors
-  int<lower=1> n_case; //  number of cases (problems)
-  int<lower=1,upper=K> response[n_doctor,n_case]; //array of responses
-  int<lower=1,upper=3> types[n_case]; //type of cases (problems)
+  int<upper=3> K; //number of clesses of responses
+  int<lower=1> n_doctor; //number of doctors
+  int<lower=1> n_case; //number of cases (problems)
+  int<lower=1,upper=K> response[n_doctor,n_case]; //matrix of responses
+  int<lower=1,upper=3> types[n_case]; //ground truth of cases 
 }
 
 
