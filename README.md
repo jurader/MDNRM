@@ -11,7 +11,8 @@ The following softwares were used for the implementation of MD-NRM.
 * shinystan, version 2.5.0
 * tidybayes, version 3.0.1.  
 
-# paper
+
+# Paper
 If the source code of this repository is used, please cite the following paper.
 
 ## Published paper
@@ -29,6 +30,7 @@ medRxiv 2022.08.05.22278451;
 
 * DOI: https://doi.org/10.1101/2022.08.05.22278451
 * URL: https://www.medrxiv.org/content/10.1101/2022.08.05.22278451v1
+
 
 # License
 The source code of this repository is licensed under GPLv3. For the detail, please see License file of this repository.
