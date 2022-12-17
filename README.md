@@ -11,11 +11,20 @@ The following softwares were used for the implementation of MD-NRM.
 * shinystan, version 2.5.0
 * tidybayes, version 3.0.1.  
 
-# Preprint paper
-If the source code of this repository is used, please cite the following preprint paper.
+# paper
+If the source code of this repository is used, please cite the following paper.
 
-Bayesian Multidimensional Nominal Response Model for Observer Study of Radiologists.
+## Published paper
+Nishio, M., Kobayashi, D., Matsuo, H. et al. 
+Bayesian multidimensional nominal response model for observer study of radiologists. 
+Jpn J Radiol (2022). 
+
+* DOI: https://doi.org/10.1007/s11604-022-01366-y
+* URL: https://link.springer.com/article/10.1007/s11604-022-01366-y
+
+## Preprint paper
 Mizuho Nishio, Daigo Kobayashi, Hidetoshi Matsuo, Yasuyo Urase, Eiko Nishioka, Takamichi Murakami.
+Bayesian Multidimensional Nominal Response Model for Observer Study of Radiologists.
 medRxiv 2022.08.05.22278451;
 
 * DOI: https://doi.org/10.1101/2022.08.05.22278451
